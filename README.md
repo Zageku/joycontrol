@@ -1,3 +1,9 @@
+基于joycontrol项目，增加了监听udp端口执行操作的功能。
+
+电脑与树莓派通过udp套接字连接即可使用xbox手柄或键盘远程控制switch。
+
+
+
 # joycontrol
 Emulate Nintendo Switch Controllers over Bluetooth.
 
